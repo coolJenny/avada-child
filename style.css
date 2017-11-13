@@ -1,0 +1,18 @@
+/*
+Theme Name:   Avada-Child	
+
+Theme URI:    https://techieservice.org/
+
+Description:  A theme for Education
+
+Author:       Zhang Hua Qiang
+
+Author URI:   http://techieservice.org
+
+Template:     Avada
+
+Version:      1.0.0
+
+*/
+.fusion-header-wrapper .fusion-secondary-header{	min-height: 30px;	border: none;}.fusion-header-v4 .fusion-header{	padding-top: 10px;    padding-bottom: 10px;}
+.fusion-mobile-menu-sep, .fusion-secondary-main-menu{	border: none;}.fusion-main-menu .sub-menu{	border-top: 2px solid #a0ce4e !important}div.home-cont-2 .title-heading-center{	color: #fff;}div.home-cont-2 .wpcf7-form-control-wrap {    position: relative;    width: 33.33%;    display: block;    float: left;}div.home-cont-2 .wpcf7-form-control-wrap input{	border: 1px solid #fff;    background-color: transparent;    height: 40px;	color: white;	width: 90% !important;}div.home-cont-2 .wpcf7-form-control-wrap .wpcf7-select-parent{	width: 90% !important;}div.home-cont-2 .wpcf7-form-control-wrap .wpcf7-select-parent .wpcf7-select{	color: white;	border: 1px solid #fff;    background-color: transparent;    height: 40px;}div.home-cont-2 .wpcf7-form-control-wrap .wpcf7-select-parent .wpcf7-select option{	background-color: #f0f6fa;    color: black;}div.home-cont-2 .wpcf7-form-control-wrap .wpcf7-select-parent .select-arrow{	background-color: transparent !important;    border: none;    color: white;}div.home-cont-2 .btn-submit{	clear: both;    padding-top: 20px;    text-align: center;}
